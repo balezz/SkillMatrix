@@ -47,9 +47,9 @@
    </td>
    <td>В основном использует IDE для редактирования текста.
    </td>
-   <td>Способен эффективно пользоваться меню в IDE. Знает некоторые тонкости среды.
+   <td>Способен эффективно пользоваться меню в IDE. Знает некоторые тонкости среды. - 50 %
    </td>
-   <td>Для самых используемых функций  среды знает горячие клавиши.
+   <td>Для самых используемых функций  среды знает горячие клавиши. - 20 %
    </td>
    <td>Написал свои макросы.
    </td>
@@ -59,11 +59,9 @@
    </td>
    <td>Часто нуждается в обращениях к документации.
    </td>
-   <td>Помнит самые часто используемые API.
+   <td>Помнит самые часто используемые API. - 30 %
    </td>
-   <td>Обширные и глубокие знания
-<p>
-API.
+   <td>Обширные и глубокие знания API.
    </td>
    <td>Написал библиотеки, которые оборачивают API, для упрощения задач, которые наиболее часто встречаются. Эти библиотеки также часто восполняют пробелы в API.
    </td>
@@ -73,7 +71,7 @@ API.
    </td>
    <td>Не использует никаких фреймверков за рамками основной платформы.
    </td>
-   <td>Знает, но не использует популярные фреймворки, доступные для его платформы.
+   <td>Знает, но не использует популярные фреймворки, доступные для его платформы. - 20 %
    </td>
    <td>Профессионально пользовался более чем одним фреймворком и хорошо разбирается в идиомах фреймворков. 
    </td>
@@ -85,9 +83,9 @@ API.
    </td>
    <td>Понимает выставленные требования и пишет код в соответствии со спецификацией.
    </td>
-   <td>Задает вопросы касающиеся не рассмотренных в спецификации случаев.
+   <td>Задает вопросы касающиеся не рассмотренных в спецификации случаев. - 60 %
    </td>
-   <td>Понимает картину в целом и предлагает дополнительные аспекты, которые должны быть описаны в спецификации.
+   <td>Понимает картину в целом и предлагает дополнительные аспекты, которые должны быть описаны в спецификации. - 20 %
    </td>
    <td>Может предложить лучшие альтернативы и следовать выставленным требованиям, основываясь на собственном опыте.
    </td>
@@ -97,11 +95,9 @@ API.
    </td>
    <td>Отсутствует знание скриптовых инструментов.
    </td>
-   <td>Batch-файлы/shell.
+   <td>Batch-файлы/shell. - 30 %
    </td>
-   <td>Perl/Python/Ruby/VBScript/
-<p>
-Powershell.
+   <td>Perl/Python/Ruby/VBScript/Powershell. - 20 %
    </td>
    <td>Писал и публиковал повторно используемые скрипты.
    </td>
@@ -111,7 +107,7 @@ Powershell.
    </td>
    <td>Думает, что Excel - это база данных.
    </td>
-   <td>Знает основы баз данных, нормализацию, <a href="http://ru.wikipedia.org/wiki/ACID">ACID</a>, транзакции и может написать простые select'ы.
+   <td>Знает основы баз данных, нормализацию, <a href="http://ru.wikipedia.org/wiki/ACID">ACID</a>, транзакции и может написать простые select'ы. - 30 %
    </td>
    <td>Может спроектировать хорошие нормализованные схемы БД, с учетом запросов, которые будут выполняться; умело использует представления, хранимые процедуры, триггеры и собственные типы данных. Понимает разницу между кластеризованными и не-кластеризованными индексами. Специалист в использовании  <a href="http://ru.wikipedia.org/wiki/ORM">ORM</a> -тулзов.
    </td>
@@ -143,9 +139,9 @@ Powershell.
 <p>
 <a href="http://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F">ванные</a> и <a href="http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%BB%D0%B0%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F">декларативные</a> (SQL) языки программирования. Дополнительный бонус - если понимает разницу между статической и динамической, слабой и строгой типизацией, 
 <p>
-<a href="http://en.wikipedia.org/wiki/Type_inference">статически выводимыми типами</a>.
+<a href="http://en.wikipedia.org/wiki/Type_inference">статически выводимыми типами</a>. - 80 %
    </td>
-   <td><a href="http://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F">Функциональные языки программирования</a>. Дополнительный бонус - если знает, что такое <a href="http://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F">"ленивые вычисления"</a>, <a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%80%D0%B8%D0%BD%D0%B3">каррирование</a>, <a href="http://en.wikipedia.org/wiki/Continuations">продолжения</a>.
+   <td><a href="http://ru.wikipedia.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F">Функциональные языки программирования</a>. Дополнительный бонус - если знает, что такое <a href="http://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%B2%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F">"ленивые вычисления"</a>, <a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%80%D0%B8%D0%BD%D0%B3">каррирование</a>, <a href="http://en.wikipedia.org/wiki/Continuations">продолжения</a>. - 30 %
    </td>
    <td><a href="http://en.wikipedia.org/wiki/Concurrent_computing#Concurrent_programming_languages">Конкурентные</a> 
 <p>
@@ -159,7 +155,7 @@ Powershell.
    </td>
    <td>1
    </td>
-   <td>2-5
+   <td>2-5 +
    </td>
    <td>6-9
    </td>
@@ -171,7 +167,7 @@ Powershell.
 <p>
 <strong>ного опыта конкретной платформы</strong>
    </td>
-   <td>1
+   <td>1 +
    </td>
    <td>2-3
    </td>
@@ -185,7 +181,7 @@ Powershell.
    </td>
    <td>Не знает о понятии "предметная область".
    </td>
-   <td>Работал хотя бы над одним продуктом в своей предметной области.
+   <td>Работал хотя бы над одним продуктом в своей предметной области. - 50 %
    </td>
    <td>Работал над несколькими продуктами в одной и той же предметной области.
    </td>
@@ -209,7 +205,7 @@ Powershell.
    </td>
    <td>Ограничены используемой IDE (<a href="http://ru.wikipedia.org/wiki/Visual_Studio">VS.Net</a>, <a href="http://ru.wikipedia.org/wiki/Eclipse">Eclipse</a> и т.д.)
    </td>
-   <td>Знает о некоторых альтернативах популярным стандартным инструментариям.
+   <td>Знает о некоторых альтернативах популярным стандартным инструментариям. - 60 %
    </td>
    <td>Хорошие знания редакторов кода, отладчиков, различных IDE, open-source альтернативах и т.д. (Например, это может быть кто-то, кто знает большинство тулзов из <a href="http://www.hanselman.com/blog/ScottHanselmans2007UltimateDeveloperAndPowerUsersToolListForWindows.aspx">списка Скота Ганзельмана</a>.)
 <p>
@@ -223,7 +219,7 @@ Powershell.
    </td>
    <td>Никогда не смотрел кодовую базу.
    </td>
-   <td>Имеет общее представление о расположении кода и о том, как его собрать.
+   <td>Имеет общее представление о расположении кода и о том, как его собрать. - 30 %
    </td>
    <td>Хорошие рабочие знания кодовой базы, реализовывал несколько багфиксов и, может быть, некоторые маленькие фичи.
    </td>
@@ -235,7 +231,7 @@ Powershell.
    </td>
    <td>Не слышал о новейших технологиях.
    </td>
-   <td>Слышал о новейших технологиях в своей области.
+   <td>Слышал о новейших технологиях в своей области. - 30 %
    </td>
    <td>Скачивал alpha/preview/CTP
 <p>
@@ -263,51 +259,42 @@ Powershell.
 <img src="1001354127.jpg" height="147px">
 <br><br>
 Серии книг
-<br><br>
-<a href="http://www.ozon.ru/?context=search&group=div_book&text=%ef%f0%ee%e3%f0%e0%ec%ec%e8%f0%ee%e2%e0%ed%e8%e5+%e4%eb%ff+%f7%e0%e9%ed%e8%ea%ee%e2&partner=omega-it">"... за 21 день"</a>
-<br><br>
-<a href="http://www.ozon.ru/?context=search&group=div_book&text=%ef%f0%ee%e3%f0%e0%ec%ec%e8%f0%ee%e2%e0%ed%e8%e5+%e4%eb%ff+%f7%e0%e9%ed%e8%ea%ee%e2&partner=omega-it">"... за 24 часа"</a>
-<br><br>
-<a href="http://www.ozon.ru/?context=search&group=div_book&text=%ef%f0%ee%e3%f0%e0%ec%ec%e8%f0%ee%e2%e0%ed%e8%e5+%e4%eb%ff+%f7%e0%e9%ed%e8%ea%ee%e2&partner=omega-it">"... для чайников"</a>.
+... за 21 день  
+... за 24 часа  
+... для чайников"
 </td>
 <td>
-<img src="1001969331.jpg" height="147px">
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/5508646/?partner=omega-it">Совершенный код</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/3795618/?partner=omega-it">Не заставляйте меня думать!</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/4066500/?partner=omega-it">Регулярные выражения</a>
+Совершенный код
+<br>
+Не заставляйте меня думать!
+<br>
+Регулярные выражения
 </td>
 <td>
-<img src="1000234826.jpg" height="147px">
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/2338486/?partner=omega-it">Человеческий фактор: успешные проекты и команды</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/20216992/?partner=omega-it">Приемы объектно-ориентиро-ванного проектирования. Паттерны проектирования</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/19435989/?partner=omega-it">Жемчужины проектирования</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/6290126/?partner=omega-it">Руководство по разработке алгоритмов</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/3353337/?partner=omega-it">Программист-прагматик</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/83760/">Мифический человеко - месяц</a>
+Человеческий фактор: успешные проекты и команды
+<br>
+Приемы объектно-ориентиро-ванного проектирования. Паттерны проектирования
+<br>
+Жемчужины проектирования
+<br>
+Руководство по разработке алгоритмов
+<br>
+Программист-прагматик
+<br>
+Мифический человеко - месяц
 </td>
 <td>
-<img src="1000043489.jpg"  height="147px">
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/1335648/?partner=omega-it">Искусство программирования</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/5322055/?partner=omega-it">Структура и интерпретация компьютерных программ</a>
-<br><br>
-<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.ozon.ru%2Fcontext%2Fdetail%2Fid%2F1829832%2F%3Fpartner%3Domega-it&sa=D&sntz=1&usg=AFQjCNH-gRS0zAu5vomJrL7qpr0HUCpWhw">Concepts Techniques and    Models of Computer Programming</a>
-<br><br>
-<a href="http://www.ozon.ru/context/detail/id/1829471/?partner=omega-it">Database systems , by C. J Date</a>
-<br><br>
-<a href="http://www.amazon.com/Thinking-Forth-Leo-Brodie/dp/0976458705/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1216551535&sr=1-1">Thinking Forth</a>
-<br><br>
-<a href="http://www.amazon.com/Little-Schemer-Daniel-P-Friedman/dp/0262560992/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1216551749&sr=1-1">Little Schemer</a>
+Искусство программирования
+<br>
+Структура и интерпретация компьютерных программ
+<br>
+Concepts Techniques and    Models of Computer Programming
+<br>
+Database systems , by C. J Date
+<br>
+Thinking Forth
+<br>
+Little Scheme
    </td>
   </tr>
   <tr>
@@ -315,7 +302,7 @@ Powershell.
    </td>
    <td>Слышал о блогах, но не уделял им внимания.
    </td>
-   <td>Читает технические блоги, блоги о программировании и разработке ПО и регулярно слушает подкасты.
+   <td>Читает технические блоги, блоги о программировании и разработке ПО и регулярно слушает подкасты. - 60 %
    </td>
    <td>Ведет ссылочный блог, содержащий коллекции  ссылок на полезные статьи и тулзы, которые [ссылки] он собирает.
    </td>
@@ -328,18 +315,4 @@ Powershell.
 
 <p style="text-align: right">
 <strong> </strong></p>
-
-_Замечание 1:_
-
-Каждый следующий уровень включает в себя предыдущий , т.е. разработчик находящийся на уровне 3 должен удовлетворять критериям двух предыдущих уровней.
-
-_Замечание 2:_
-
-Версия документа от 17.05.2013. О дополнениях, ошибках  сообщайте в issues. Спасибо всем, кто помог сделать этот документ лучше!
-
-_Замечание 3:_
-
-Эта перевод английской версии: [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
-
-Первая, более теоретическая часть таблицы - **[Матрица компетентности программиста ч.I.>>](README.md)**
 
