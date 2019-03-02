@@ -1,8 +1,6 @@
                                                                    
-**Матрица компетентности программиста**
+**Матрица компетентности меня как программиста**
 
-Каждый следующий уровень включает в себя предыдущий , т.е. разработчик находящийся на уровне 3 должен удовлетворять критериям двух предыдущих уровней.
-
-Эта перевод английской версии: [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
-
+В качестве основы взят перевод английской версии: [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm) от [omreps](http://github.com/omreps)
+ 
 
