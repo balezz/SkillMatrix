@@ -8,7 +8,7 @@ Java Core - опыт работы два года:
 1. Создание тестовых приложений для метрологической аттестации программного обеспечения средств обработки результатов измерений (только закрытые проекты).
 2. JavaFX: приложение с GUI для наглядного исследования зависимости погрешности выходного сигнала от характеристик цифрового синтезатора частоты. [Исходники](https://github.com/balezz/DdsAccuracy).  
 3. JavaSE: Eckel Bruce, Thinking in Java (подробно). Sedgewick Robert, Coursera Algorithms, Part I. По Java 8 книги Шилдта Хортсмана. Bloch Joshua, Effective Java. Есть пара сертификатов [1](https://geekbrains.ru/go/Zi5Gyc), [2](https://geekbrains.ru/go/7tJ9Tv)  от GeekBrains. Паттерны проектирования GoF.
-4. JavaEE: Eckel Bruce, Thinking in Enterprise Java (старая неизданная книга)(http://www.cs.ust.hk/~dekai/library/ECKEL_Bruce/)). Наши Блинов, Романчик Java. Методы программирования.  
+4. JavaEE: Eckel Bruce, Thinking in Enterprise Java (старая неизданная книга). Наши Блинов, Романчик Java. Методы программирования.  
 
 
 Android - опыт один год, мои open-source приложения в PlayMarket:  
