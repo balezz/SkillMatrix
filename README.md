@@ -1,32 +1,67 @@
-## **Мое техническое резюме**
+# **Резюме**
 
-Опыт разработки ПО - два года, текущий уровень - Middle. Основное направление развития - Java backend dev.
+Лабинцев Андрей Иванович, 21 мая 1986 г.р., кандидат технических наук.  
 
-Основной стек Java:  
+### Опыт работы - 12 лет.  
 
-Java Core - опыт работы два года:  
-1. Создание тестовых приложений для метрологической аттестации программного обеспечения средств обработки результатов измерений (только закрытые проекты).
-2. JavaFX: приложение с GUI для наглядного исследования зависимости погрешности выходного сигнала от характеристик цифрового синтезатора частоты. [Исходники](https://github.com/balezz/DdsAccuracy).  
-3. JavaSE: Eckel Bruce, Thinking in Java (подробно). Sedgewick Robert, Coursera Algorithms, Part I. По Java 8 книги Шилдта Хортсмана. Bloch Joshua, Effective Java. Есть пара сертификатов [1](https://geekbrains.ru/go/Zi5Gyc), [2](https://geekbrains.ru/go/7tJ9Tv)  от GeekBrains. Паттерны проектирования GoF.
-4. JavaEE: Eckel Bruce, Thinking in Enterprise Java (старая неизданная книга). Наши Блинов, Романчик Java. Методы программирования.  
+Июль 2008 - август 2016  
+Начальник лаборатории измерительной техники.  
+Обязанности:  
+- организация работ по поверке средств измерений, 
+- аккредитация лаборатории на проведение работ,  
+- обучение подчиненных работе со средствами измерений,
+- анализ результатов измерений.  
 
+Сентябрь 2016 - сентябрь 2019  
+Аспирант очной формы обучения.  
+Обязанности:  
+- исследование влияния программного и аппаратного обеспечения на метрологические характеристики измерительных систем.  
 
-Android - опыт один год, мои open-source приложения в PlayMarket:  
-1. [Ods Quiz](https://play.google.com/store/apps/details?id=ru.balezz.odscards), [исходники](https://github.com/balezz/OdsQuiz).
-2. [Цифровая панель](https://play.google.com/store/apps/details?id=ru.balezz.numpanel), [исходники](https://github.com/balezz/NumPanel).  
+Сентябрь 2019 - настоящее время  
+Научный сотрудник отдела систем связи и робототехнических систем.  
+Обязанности:  
+- исследования в области искусственного интеллекта и анализа данных,
+- руководство научной работой студентов (computer vision).  
 
-Spring Framework - опыт три месяца, разработка микросервисов для Android-приложений.  
-1. Сервер обработки сообщений о техническом состоянии автомобиля с помощью Android-устройства, сопряженного с адаптером ELM327 (в процессе). [Исходники](https://github.com/balezz/ObdServer).  
-2. Сертификат Coursera **Building Cloud Services with the Java Spring Framework** (в процессе).  
+С сентября 2019 волонтер в проекте [Lacmus](https://habr.com/ru/company/ods/blog/483616/) - поиск людей на фотографиях местности, сделанных с БПЛА.  
+Обязанности: 
+- исследование архитектур SSD (retinanet, efficientdet), 
+- конвертиртация моделей в tflite, имплементация на Android платформу, 
+- организация соревнования на [Kaggle](https://www.kaggle.com/c/lacmus-foundation/overview), 
+- разработка [сайта-визитки проекта](https://lacmus-foundation.github.io), 
+- разработка микросервиса для хранения фотографий. [Исходники](https://github.com/balezz/ObdServer).  
 
-Дополнительный стек Python:
+Кроме того разрабатывал сервер охранной системы на django, деплой на Raspberry PI, [прототип](https://github.com/balezz/server-krepost).  
 
-1. numpy, scipy, pandas, sklearn, курс по машинному обучению mlcourse.ai, несколько статей на [хабре](https://habr.com/ru/users/balezz/posts/).
-2. pytorch, tensorflow, курс Stanford University cs231n, с сентября 2019 волонтер в проекте [Lacmus](https://lacmus-foundation.github.io) - поиск людей на фотографиях местности, сделанных с БПЛА. Есть опыт участия и организации соревнований на [Kaggle](https://www.kaggle.com/c/lacmus-foundation/overview).
-3. django - сервер охранной системы на Raspberry PI, в открытом доступе демо - [прототип](https://github.com/balezz/server-krepost).
+Публикации на [хабре](https://habr.com/ru/users/balezz/posts/).
+
+### Опыт разработки ПО - 2 года.  
+Основной стек Python: numpy, scipy, pandas, sklearn, pytorch, tensorflow  
+
+Дополнительный стек Java:  
+
+1. JavaFX приложение для исследования зависимости погрешности выходного сигнала от характеристик цифрового синтезатора частоты. [Исходники](https://github.com/balezz/DdsAccuracy).  
+2. Android - приложения в PlayMarket:  
+- [Ods Quiz](https://play.google.com/store/apps/details?id=ru.balezz.odscards), программа для изучения основ машинного обучения [исходники](https://github.com/balezz/OdsQuiz).
+- [Цифровая панель](https://play.google.com/store/apps/details?id=ru.balezz.numpanel) - по заказу объединения ветеранов конькобежного спорта   [исходники](https://github.com/balezz/NumPanel).  
 
 Другие технологии:  
 
-Ubuntu, bash, git, docker, разработка ТЗ по ГОСТ 34 и ISO/IEC/ IEEE 29148-2011, знаком со SWEBOK. Html, css, js, Я.Директ, Goole AdWords - полгода админил онлайн магазин.
+Ubuntu, bash, git, docker, google cloud platform.  
+Разработка документации, ТЗ по ГОСТ 34 и ISO/IEC/ IEEE 29148-2011.  
+Html, css, Я.Директ, Goole AdWords - настройка контекстной рекламы.
 
-В данный момент трудоустроен в научном учреждении, есть желание и возможность участвовать в проектной работе на удаленке. Напишите мне (direct.andrey.bal@gmail.com), буду рад пообщаться!
+
+### Образование:  
+
+2008 г. Ростовский институт РВСН - инженер-метролог.  
+
+2012 г. Ивановский Государственный Университет - банковское дело (заочно).  
+
+2019 г. Академия РВСН - преподаватель-исследователь.
+
+Курсы по машинному обучению Stanford University cs231n,  mlcourse.ai, dlcource.ai    
+[GeekBrains Java Core](https://geekbrains.ru/go/Zi5Gyc).  
+[Building Cloud Services with the Java Spring Framework](https://coursera.org/share/fdbe91abf86b30294ca8921e6930020c), Algorithms Part I, Linear Algebra.  
+  
+
