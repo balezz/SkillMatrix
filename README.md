@@ -65,6 +65,8 @@ Html, css, Я.Директ, Goole AdWords - настройка контекст�
 
 Курсы по машинному обучению Stanford University cs231n,  mlcourse.ai, dlcource.ai    
 [GeekBrains Java Core](https://geekbrains.ru/go/Zi5Gyc).  
-[Building Cloud Services with the Java Spring Framework](https://coursera.org/share/fdbe91abf86b30294ca8921e6930020c), Algorithms Part I, Linear Algebra.  
+[Big Data Essentials: HDFS, MapReduce and Spark RDD](https://coursera.org/share/5d2006bb2b53c5742281378672b34211),  
+[Building Cloud Services with the Java Spring Framework](https://coursera.org/share/fdbe91abf86b30294ca8921e6930020c),  
+Algorithms Part I, Linear Algebra.  
   
 
