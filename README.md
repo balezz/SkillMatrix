@@ -32,7 +32,7 @@
 - конвертиртация моделей в tflite, имплементация на Android платформу, 
 - организация соревнования на [Kaggle](https://www.kaggle.com/c/lacmus-foundation/overview), 
 - разработка [сайта-визитки проекта](https://lacmus-foundation.github.io), 
-- разработка микросервиса для хранения фотографий. [Исходники](https://github.com/balezz/ObdServer).  
+- разработка микросервиса для хранения фотографий. [Исходники](https://github.com/balezz/lacmus_storage).  
 
 Кроме того разрабатывал сервер охранной системы на django, деплой на Raspberry PI, [прототип](https://github.com/balezz/server-krepost).  
 
